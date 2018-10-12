@@ -1,5 +1,5 @@
 {
-  "name": "Simple-React-Native-ChatApp",
+  "name": "simple-react-native-chatapp",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
@@ -24,10 +24,11 @@
   "dependencies": {
     "expo": "^27.0.1",
     "firebase": "^5.4.1",
+    "prop-types": "^15.6.2",
     "react": "16.3.1",
-    "react-native": "~0.55.2",
+    "react-native": "^0.57.2",
     "react-native-i18n": "^2.0.15",
-    "react-navigation": "^2.12.1",
+    "react-navigation": "^2.18.0",
     "react-redux": "^5.0.7",
     "redux": "^4.0.0",
     "redux-thunk": "^2.3.0",
